@@ -10,7 +10,10 @@
    
   # Data description
    The dataset contains information on 8,523 products and 12 columns in train.csv file.
-   ![image](https://github.com/Kaviya3001/Bigmart-Sales-Prediction-using-Machinne-Learning/assets/122618039/164fcc85-9c94-4352-98e3-c69baed04eba)
+   ![image](https://github.com/Kaviya3001/Bigmart-Sales-Prediction-using-Machinne-Learning/assets/122618039/22ba3dec-e18f-4068-92b5-1a1cef824f46)
+   ![image](https://github.com/Kaviya3001/Bigmart-Sales-Prediction-using-Machinne-Learning/assets/122618039/8eeb0f3f-69fe-4573-badb-85f623dd5451)
+
+
 
 
   
