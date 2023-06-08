@@ -1,1 +1,1 @@
-# Bigmart-Sales-Prediction-using-Machinne-Learning
+# Bigmart-Sales-Prediction-using-Machine-Learning
